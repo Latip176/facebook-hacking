@@ -39,7 +39,7 @@ class Crack(object):
         except Exception as e:
             exit(e)
             
-    def Data(selt, response):
+    def Data(self, response):
         soup = BeautifulSoup(response.text, "html.parser")
         form = soup.find("form", method="post")
         data = {_.get("name"):_.get("value") for _ in form.findAll("input", attrs={"type": "hidden"})}
