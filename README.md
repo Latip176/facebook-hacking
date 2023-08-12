@@ -18,4 +18,4 @@ python3 app.py
 ```
 
 # requirements before use this tool
-- Cookies Facebook (u can use inspect element or dev tools for get the cookies account) and (u can use kiwi browser on android for get the cookies account). search: "how to get cookies account facebook on android and pc"
+- Cookies Facebook (u can use inspect element or dev tools for get the cookies account) and (u can use kiwi browser on android for get the cookies account). or search: "how to get cookies account facebook on android and pc"
